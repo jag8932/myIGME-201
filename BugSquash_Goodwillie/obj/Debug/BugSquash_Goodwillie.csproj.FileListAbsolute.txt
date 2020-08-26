@@ -1,0 +1,7 @@
+C:\Users\jacob\OneDrive\Desktop\github\jag8932\BugSquash_Goodwillie\bin\Debug\BugSquash_Goodwillie.exe.config
+C:\Users\jacob\OneDrive\Desktop\github\jag8932\BugSquash_Goodwillie\bin\Debug\BugSquash_Goodwillie.exe
+C:\Users\jacob\OneDrive\Desktop\github\jag8932\BugSquash_Goodwillie\bin\Debug\BugSquash_Goodwillie.pdb
+C:\Users\jacob\OneDrive\Desktop\github\jag8932\BugSquash_Goodwillie\obj\Debug\BugSquash_Goodwillie.csprojAssemblyReference.cache
+C:\Users\jacob\OneDrive\Desktop\github\jag8932\BugSquash_Goodwillie\obj\Debug\BugSquash_Goodwillie.csproj.CoreCompileInputs.cache
+C:\Users\jacob\OneDrive\Desktop\github\jag8932\BugSquash_Goodwillie\obj\Debug\BugSquash_Goodwillie.exe
+C:\Users\jacob\OneDrive\Desktop\github\jag8932\BugSquash_Goodwillie\obj\Debug\BugSquash_Goodwillie.pdb
