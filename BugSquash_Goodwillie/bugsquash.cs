@@ -51,7 +51,7 @@ namespace SquashTheBugs
                 //   i = i + 1;
                 Console.WriteLine("These numbers have been processed: " + allNumbers);
             }
-
+            
             // output all numbers which have been processed
             // Missing the + operator. This is a compile time error. Should also be within the for loop since allNumbers equals i.
             //  Console.WriteLine("These numbers have been processed: " allNumbers);
