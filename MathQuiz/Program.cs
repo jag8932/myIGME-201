@@ -141,7 +141,10 @@ namespace MathQuiz
 
                 sAgain = Console.ReadLine();
 
-                if ()
+                if (sAgain = "Y" || sAgain == "Yes")
+                {
+
+                }
                 // if they type y or yes then play again
                 // else if they type n or no then leave this loop
                 // use the string class methods ToLower() and StartsWith() to check if they typed "yes" or "no"

@@ -1,0 +1,7 @@
+C:\Users\jacob\OneDrive\Desktop\github\jag8932\Personal_Testing\bin\Debug\Personal_Testing.exe.config
+C:\Users\jacob\OneDrive\Desktop\github\jag8932\Personal_Testing\bin\Debug\Personal_Testing.exe
+C:\Users\jacob\OneDrive\Desktop\github\jag8932\Personal_Testing\bin\Debug\Personal_Testing.pdb
+C:\Users\jacob\OneDrive\Desktop\github\jag8932\Personal_Testing\obj\Debug\Personal_Testing.csprojAssemblyReference.cache
+C:\Users\jacob\OneDrive\Desktop\github\jag8932\Personal_Testing\obj\Debug\Personal_Testing.csproj.CoreCompileInputs.cache
+C:\Users\jacob\OneDrive\Desktop\github\jag8932\Personal_Testing\obj\Debug\Personal_Testing.exe
+C:\Users\jacob\OneDrive\Desktop\github\jag8932\Personal_Testing\obj\Debug\Personal_Testing.pdb

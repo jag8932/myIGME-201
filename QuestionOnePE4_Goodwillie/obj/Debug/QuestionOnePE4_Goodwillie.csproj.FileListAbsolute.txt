@@ -1,0 +1,7 @@
+C:\Users\jacob\OneDrive\Desktop\github\jag8932\QuestionOnePE4_Goodwillie\bin\Debug\QuestionOnePE4_Goodwillie.exe.config
+C:\Users\jacob\OneDrive\Desktop\github\jag8932\QuestionOnePE4_Goodwillie\bin\Debug\QuestionOnePE4_Goodwillie.exe
+C:\Users\jacob\OneDrive\Desktop\github\jag8932\QuestionOnePE4_Goodwillie\bin\Debug\QuestionOnePE4_Goodwillie.pdb
+C:\Users\jacob\OneDrive\Desktop\github\jag8932\QuestionOnePE4_Goodwillie\obj\Debug\QuestionOnePE4_Goodwillie.csprojAssemblyReference.cache
+C:\Users\jacob\OneDrive\Desktop\github\jag8932\QuestionOnePE4_Goodwillie\obj\Debug\QuestionOnePE4_Goodwillie.csproj.CoreCompileInputs.cache
+C:\Users\jacob\OneDrive\Desktop\github\jag8932\QuestionOnePE4_Goodwillie\obj\Debug\QuestionOnePE4_Goodwillie.exe
+C:\Users\jacob\OneDrive\Desktop\github\jag8932\QuestionOnePE4_Goodwillie\obj\Debug\QuestionOnePE4_Goodwillie.pdb
