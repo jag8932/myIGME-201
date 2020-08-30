@@ -1,0 +1,6 @@
+C:\Users\jacob\OneDrive\Desktop\github\jag8932\toBeDeleted\obj\Debug\toBeDeleted.csproj.CoreCompileInputs.cache
+C:\Users\jacob\OneDrive\Desktop\github\jag8932\toBeDeleted\bin\Debug\toBeDeleted.exe.config
+C:\Users\jacob\OneDrive\Desktop\github\jag8932\toBeDeleted\bin\Debug\toBeDeleted.exe
+C:\Users\jacob\OneDrive\Desktop\github\jag8932\toBeDeleted\bin\Debug\toBeDeleted.pdb
+C:\Users\jacob\OneDrive\Desktop\github\jag8932\toBeDeleted\obj\Debug\toBeDeleted.exe
+C:\Users\jacob\OneDrive\Desktop\github\jag8932\toBeDeleted\obj\Debug\toBeDeleted.pdb
