@@ -65,7 +65,7 @@ namespace PE6_Goodwillie
                     if (checkValid)
                     {
                         loopInput = true;
-                        if (userGuess > randomNum)
+                        if (userGuess > randomNum)          // Checks if guess is lower or higher than the random number and tells the player.
                         {
                             Console.WriteLine("Your guess is too high, aim lower!");
                         }
@@ -141,3 +141,5 @@ namespace PE6_Goodwillie
         }
     }
 }
+
+
