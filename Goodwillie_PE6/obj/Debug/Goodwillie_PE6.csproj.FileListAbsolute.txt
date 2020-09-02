@@ -1,0 +1,7 @@
+C:\Users\jacob\OneDrive\Desktop\github\jag8932\Goodwillie_PE6\bin\Debug\Goodwillie_PE6.exe.config
+C:\Users\jacob\OneDrive\Desktop\github\jag8932\Goodwillie_PE6\bin\Debug\Goodwillie_PE6.exe
+C:\Users\jacob\OneDrive\Desktop\github\jag8932\Goodwillie_PE6\bin\Debug\Goodwillie_PE6.pdb
+C:\Users\jacob\OneDrive\Desktop\github\jag8932\Goodwillie_PE6\obj\Debug\Goodwillie_PE6.csprojAssemblyReference.cache
+C:\Users\jacob\OneDrive\Desktop\github\jag8932\Goodwillie_PE6\obj\Debug\Goodwillie_PE6.csproj.CoreCompileInputs.cache
+C:\Users\jacob\OneDrive\Desktop\github\jag8932\Goodwillie_PE6\obj\Debug\Goodwillie_PE6.exe
+C:\Users\jacob\OneDrive\Desktop\github\jag8932\Goodwillie_PE6\obj\Debug\Goodwillie_PE6.pdb
