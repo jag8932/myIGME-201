@@ -1,0 +1,7 @@
+C:\Users\jacob\OneDrive\Desktop\github\jag8932\Madlibs_Goodwillie\bin\Debug\Madlibs_Goodwillie.exe.config
+C:\Users\jacob\OneDrive\Desktop\github\jag8932\Madlibs_Goodwillie\bin\Debug\Madlibs_Goodwillie.exe
+C:\Users\jacob\OneDrive\Desktop\github\jag8932\Madlibs_Goodwillie\bin\Debug\Madlibs_Goodwillie.pdb
+C:\Users\jacob\OneDrive\Desktop\github\jag8932\Madlibs_Goodwillie\obj\Debug\Madlibs_Goodwillie.csprojAssemblyReference.cache
+C:\Users\jacob\OneDrive\Desktop\github\jag8932\Madlibs_Goodwillie\obj\Debug\Madlibs_Goodwillie.csproj.CoreCompileInputs.cache
+C:\Users\jacob\OneDrive\Desktop\github\jag8932\Madlibs_Goodwillie\obj\Debug\Madlibs_Goodwillie.exe
+C:\Users\jacob\OneDrive\Desktop\github\jag8932\Madlibs_Goodwillie\obj\Debug\Madlibs_Goodwillie.pdb
