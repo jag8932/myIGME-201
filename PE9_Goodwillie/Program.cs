@@ -19,7 +19,6 @@ namespace PE9_Goodwillie
     {
         //n Stores given by delegate function.
         static string n;
-
         // delegate function accepts no special parameters in this case. Declared as UserInput.
         delegate void UserInput();
 
@@ -32,7 +31,28 @@ namespace PE9_Goodwillie
             Console.WriteLine("What is your name?");
             showInput();    // ShowInput does exactly the same thing as Console.ReadLine and gives n a string based on user input.
             Console.WriteLine("Hello " + n);
-            
+
+            order numberOne = new order();
+
+            numberOne.totalprice();
+        }
+        struct order
+        {
+            public string itemName;
+            public int unitCount;
+            public double unitCost;
+
+            public double totalprice()
+            {
+
+                return unitCount * unitCost;
+            }
+
+            public string showOrder()
+            {
+                string order = String.Format("You ordered {0} {1} at ${2} per item." , unitCount, itemName, unitCost);
+                return order;
+            }
 
         }
 
