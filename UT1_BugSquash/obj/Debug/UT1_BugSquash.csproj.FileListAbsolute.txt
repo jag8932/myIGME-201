@@ -1,0 +1,6 @@
+C:\Users\jacob\OneDrive\Desktop\github\jag8932\UT1_BugSquash\obj\Debug\UT1_BugSquash.csproj.CoreCompileInputs.cache
+C:\Users\jacob\OneDrive\Desktop\github\jag8932\UT1_BugSquash\bin\Debug\UT1_BugSquash.exe.config
+C:\Users\jacob\OneDrive\Desktop\github\jag8932\UT1_BugSquash\bin\Debug\UT1_BugSquash.exe
+C:\Users\jacob\OneDrive\Desktop\github\jag8932\UT1_BugSquash\bin\Debug\UT1_BugSquash.pdb
+C:\Users\jacob\OneDrive\Desktop\github\jag8932\UT1_BugSquash\obj\Debug\UT1_BugSquash.exe
+C:\Users\jacob\OneDrive\Desktop\github\jag8932\UT1_BugSquash\obj\Debug\UT1_BugSquash.pdb
