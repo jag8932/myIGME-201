@@ -1,0 +1,6 @@
+C:\Users\jacob\OneDrive\Desktop\github\jag8932\ReadLine_Delegate\bin\Debug\ReadLine_Delegate.exe.config
+C:\Users\jacob\OneDrive\Desktop\github\jag8932\ReadLine_Delegate\bin\Debug\ReadLine_Delegate.exe
+C:\Users\jacob\OneDrive\Desktop\github\jag8932\ReadLine_Delegate\bin\Debug\ReadLine_Delegate.pdb
+C:\Users\jacob\OneDrive\Desktop\github\jag8932\ReadLine_Delegate\obj\Debug\ReadLine_Delegate.csproj.CoreCompileInputs.cache
+C:\Users\jacob\OneDrive\Desktop\github\jag8932\ReadLine_Delegate\obj\Debug\ReadLine_Delegate.exe
+C:\Users\jacob\OneDrive\Desktop\github\jag8932\ReadLine_Delegate\obj\Debug\ReadLine_Delegate.pdb
