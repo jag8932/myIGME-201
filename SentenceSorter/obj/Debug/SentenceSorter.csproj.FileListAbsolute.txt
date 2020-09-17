@@ -1,0 +1,7 @@
+C:\Users\jacob\OneDrive\Desktop\github\jag8932\SentenceSorter\bin\Debug\SentenceSorter.exe.config
+C:\Users\jacob\OneDrive\Desktop\github\jag8932\SentenceSorter\bin\Debug\SentenceSorter.exe
+C:\Users\jacob\OneDrive\Desktop\github\jag8932\SentenceSorter\bin\Debug\SentenceSorter.pdb
+C:\Users\jacob\OneDrive\Desktop\github\jag8932\SentenceSorter\obj\Debug\SentenceSorter.csprojAssemblyReference.cache
+C:\Users\jacob\OneDrive\Desktop\github\jag8932\SentenceSorter\obj\Debug\SentenceSorter.csproj.CoreCompileInputs.cache
+C:\Users\jacob\OneDrive\Desktop\github\jag8932\SentenceSorter\obj\Debug\SentenceSorter.exe
+C:\Users\jacob\OneDrive\Desktop\github\jag8932\SentenceSorter\obj\Debug\SentenceSorter.pdb

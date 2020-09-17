@@ -1,0 +1,7 @@
+C:\Users\jacob\OneDrive\Desktop\github\jag8932\Goodwillie_Midterm\bin\Debug\Goodwillie_Midterm.exe.config
+C:\Users\jacob\OneDrive\Desktop\github\jag8932\Goodwillie_Midterm\bin\Debug\Goodwillie_Midterm.exe
+C:\Users\jacob\OneDrive\Desktop\github\jag8932\Goodwillie_Midterm\bin\Debug\Goodwillie_Midterm.pdb
+C:\Users\jacob\OneDrive\Desktop\github\jag8932\Goodwillie_Midterm\obj\Debug\Goodwillie_Midterm.csprojAssemblyReference.cache
+C:\Users\jacob\OneDrive\Desktop\github\jag8932\Goodwillie_Midterm\obj\Debug\Goodwillie_Midterm.csproj.CoreCompileInputs.cache
+C:\Users\jacob\OneDrive\Desktop\github\jag8932\Goodwillie_Midterm\obj\Debug\Goodwillie_Midterm.exe
+C:\Users\jacob\OneDrive\Desktop\github\jag8932\Goodwillie_Midterm\obj\Debug\Goodwillie_Midterm.pdb
