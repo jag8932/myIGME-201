@@ -1,0 +1,7 @@
+C:\Users\jacob\OneDrive\Desktop\github\jag8932\Classes_Goodwillie\bin\Debug\Classes_Goodwillie.exe.config
+C:\Users\jacob\OneDrive\Desktop\github\jag8932\Classes_Goodwillie\bin\Debug\Classes_Goodwillie.exe
+C:\Users\jacob\OneDrive\Desktop\github\jag8932\Classes_Goodwillie\bin\Debug\Classes_Goodwillie.pdb
+C:\Users\jacob\OneDrive\Desktop\github\jag8932\Classes_Goodwillie\obj\Debug\Classes_Goodwillie.csprojAssemblyReference.cache
+C:\Users\jacob\OneDrive\Desktop\github\jag8932\Classes_Goodwillie\obj\Debug\Classes_Goodwillie.csproj.CoreCompileInputs.cache
+C:\Users\jacob\OneDrive\Desktop\github\jag8932\Classes_Goodwillie\obj\Debug\Classes_Goodwillie.exe
+C:\Users\jacob\OneDrive\Desktop\github\jag8932\Classes_Goodwillie\obj\Debug\Classes_Goodwillie.pdb

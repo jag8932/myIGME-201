@@ -1,0 +1,9 @@
+C:\Users\jacob\OneDrive\Desktop\github\jag8932\PE11_Goodwillie\bin\Debug\netstandard2.0\PE11_Goodwillie.deps.json
+C:\Users\jacob\OneDrive\Desktop\github\jag8932\PE11_Goodwillie\bin\Debug\netstandard2.0\PE11_Goodwillie.dll
+C:\Users\jacob\OneDrive\Desktop\github\jag8932\PE11_Goodwillie\bin\Debug\netstandard2.0\PE11_Goodwillie.pdb
+C:\Users\jacob\OneDrive\Desktop\github\jag8932\PE11_Goodwillie\obj\Debug\netstandard2.0\PE11_Goodwillie.csprojAssemblyReference.cache
+C:\Users\jacob\OneDrive\Desktop\github\jag8932\PE11_Goodwillie\obj\Debug\netstandard2.0\PE11_Goodwillie.AssemblyInfoInputs.cache
+C:\Users\jacob\OneDrive\Desktop\github\jag8932\PE11_Goodwillie\obj\Debug\netstandard2.0\PE11_Goodwillie.AssemblyInfo.cs
+C:\Users\jacob\OneDrive\Desktop\github\jag8932\PE11_Goodwillie\obj\Debug\netstandard2.0\PE11_Goodwillie.csproj.CoreCompileInputs.cache
+C:\Users\jacob\OneDrive\Desktop\github\jag8932\PE11_Goodwillie\obj\Debug\netstandard2.0\PE11_Goodwillie.dll
+C:\Users\jacob\OneDrive\Desktop\github\jag8932\PE11_Goodwillie\obj\Debug\netstandard2.0\PE11_Goodwillie.pdb
