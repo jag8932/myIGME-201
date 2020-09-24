@@ -9,6 +9,7 @@ namespace CourseLib
     // Description: Set up a class library using the schUML in the homework.
     public class Schedule
     {
+        // Start time and end time fields declared. Public list of days of the week created.
         public DateTime startTime;
         public DateTime endTime;
         public List< DayOfWeek> daysOfWeek = new List<DayOfWeek>();
@@ -17,13 +18,17 @@ namespace CourseLib
     }
 
 
+    // Class that defines a course.
     public class Course
     {
+        // Variables that define a course and give it details.
         public string courseCode;
         public string description;
         public string teacherEmail;
         public Schedule schedule;
 
+
+        // Constructor which takes the course code and description as parameters.
         public Course(string courseCode, string description)
         {
             this.courseCode = courseCode;
@@ -31,6 +36,7 @@ namespace CourseLib
         }
     }
 
+    // Creates a list of courses.
      class Courses
     {
         public SortedList<string, Course> SortedList = new SortedList<string, Course>();
