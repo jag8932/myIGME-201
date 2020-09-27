@@ -1,0 +1,13 @@
+C:\Users\jacob\OneDrive\Desktop\github\jag8932\PetApp\bin\Debug\netcoreapp3.1\PetApp.exe
+C:\Users\jacob\OneDrive\Desktop\github\jag8932\PetApp\bin\Debug\netcoreapp3.1\PetApp.deps.json
+C:\Users\jacob\OneDrive\Desktop\github\jag8932\PetApp\bin\Debug\netcoreapp3.1\PetApp.runtimeconfig.json
+C:\Users\jacob\OneDrive\Desktop\github\jag8932\PetApp\bin\Debug\netcoreapp3.1\PetApp.runtimeconfig.dev.json
+C:\Users\jacob\OneDrive\Desktop\github\jag8932\PetApp\bin\Debug\netcoreapp3.1\PetApp.dll
+C:\Users\jacob\OneDrive\Desktop\github\jag8932\PetApp\bin\Debug\netcoreapp3.1\PetApp.pdb
+C:\Users\jacob\OneDrive\Desktop\github\jag8932\PetApp\obj\Debug\netcoreapp3.1\PetApp.csprojAssemblyReference.cache
+C:\Users\jacob\OneDrive\Desktop\github\jag8932\PetApp\obj\Debug\netcoreapp3.1\PetApp.AssemblyInfoInputs.cache
+C:\Users\jacob\OneDrive\Desktop\github\jag8932\PetApp\obj\Debug\netcoreapp3.1\PetApp.AssemblyInfo.cs
+C:\Users\jacob\OneDrive\Desktop\github\jag8932\PetApp\obj\Debug\netcoreapp3.1\PetApp.csproj.CoreCompileInputs.cache
+C:\Users\jacob\OneDrive\Desktop\github\jag8932\PetApp\obj\Debug\netcoreapp3.1\PetApp.dll
+C:\Users\jacob\OneDrive\Desktop\github\jag8932\PetApp\obj\Debug\netcoreapp3.1\PetApp.pdb
+C:\Users\jacob\OneDrive\Desktop\github\jag8932\PetApp\obj\Debug\netcoreapp3.1\PetApp.genruntimeconfig.cache

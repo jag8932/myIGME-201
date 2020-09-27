@@ -1,0 +1,4 @@
+C:\Users\jacob\OneDrive\Desktop\github\jag8932\CourseLib\obj\Debug\netstandard2.0\CourseLib.csprojAssemblyReference.cache
+C:\Users\jacob\OneDrive\Desktop\github\jag8932\CourseLib\obj\Debug\netstandard2.0\CourseLib.AssemblyInfoInputs.cache
+C:\Users\jacob\OneDrive\Desktop\github\jag8932\CourseLib\obj\Debug\netstandard2.0\CourseLib.AssemblyInfo.cs
+C:\Users\jacob\OneDrive\Desktop\github\jag8932\CourseLib\obj\Debug\netstandard2.0\CourseLib.csproj.CoreCompileInputs.cache
