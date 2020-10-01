@@ -1,0 +1,13 @@
+C:\Users\jacob\OneDrive\Desktop\github\jag8932\ChatBot1\obj\Debug\netcoreapp3.1\ChatBot1.csprojAssemblyReference.cache
+C:\Users\jacob\OneDrive\Desktop\github\jag8932\ChatBot1\obj\Debug\netcoreapp3.1\ChatBot1.AssemblyInfoInputs.cache
+C:\Users\jacob\OneDrive\Desktop\github\jag8932\ChatBot1\obj\Debug\netcoreapp3.1\ChatBot1.AssemblyInfo.cs
+C:\Users\jacob\OneDrive\Desktop\github\jag8932\ChatBot1\obj\Debug\netcoreapp3.1\ChatBot1.csproj.CoreCompileInputs.cache
+C:\Users\jacob\OneDrive\Desktop\github\jag8932\ChatBot1\bin\Debug\netcoreapp3.1\ChatBot1.exe
+C:\Users\jacob\OneDrive\Desktop\github\jag8932\ChatBot1\bin\Debug\netcoreapp3.1\ChatBot1.deps.json
+C:\Users\jacob\OneDrive\Desktop\github\jag8932\ChatBot1\bin\Debug\netcoreapp3.1\ChatBot1.runtimeconfig.json
+C:\Users\jacob\OneDrive\Desktop\github\jag8932\ChatBot1\bin\Debug\netcoreapp3.1\ChatBot1.runtimeconfig.dev.json
+C:\Users\jacob\OneDrive\Desktop\github\jag8932\ChatBot1\bin\Debug\netcoreapp3.1\ChatBot1.dll
+C:\Users\jacob\OneDrive\Desktop\github\jag8932\ChatBot1\bin\Debug\netcoreapp3.1\ChatBot1.pdb
+C:\Users\jacob\OneDrive\Desktop\github\jag8932\ChatBot1\obj\Debug\netcoreapp3.1\ChatBot1.dll
+C:\Users\jacob\OneDrive\Desktop\github\jag8932\ChatBot1\obj\Debug\netcoreapp3.1\ChatBot1.pdb
+C:\Users\jacob\OneDrive\Desktop\github\jag8932\ChatBot1\obj\Debug\netcoreapp3.1\ChatBot1.genruntimeconfig.cache
