@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "Sd/jXpIEYp2AtXzzD8763Gg6mh9fGmTU5XyuZXO8xMnoPCuLWyYD5nWFfuird7a+KQHbWazjXxU5Q8or7eieZA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\jacob\\OneDrive\\Desktop\\github\\jag8932\\CafeLib.dll\\CafeLib.dll.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\jacob\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\jacob\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
