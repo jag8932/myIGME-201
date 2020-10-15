@@ -1,0 +1,7 @@
+C:\Users\jacob\OneDrive\Desktop\github\jag8932\FinalQuestion_Midterm\bin\Debug\FinalQuestion_Midterm.exe.config
+C:\Users\jacob\OneDrive\Desktop\github\jag8932\FinalQuestion_Midterm\bin\Debug\FinalQuestion_Midterm.exe
+C:\Users\jacob\OneDrive\Desktop\github\jag8932\FinalQuestion_Midterm\bin\Debug\FinalQuestion_Midterm.pdb
+C:\Users\jacob\OneDrive\Desktop\github\jag8932\FinalQuestion_Midterm\obj\Debug\FinalQuestion_Midterm.csprojAssemblyReference.cache
+C:\Users\jacob\OneDrive\Desktop\github\jag8932\FinalQuestion_Midterm\obj\Debug\FinalQuestion_Midterm.csproj.CoreCompileInputs.cache
+C:\Users\jacob\OneDrive\Desktop\github\jag8932\FinalQuestion_Midterm\obj\Debug\FinalQuestion_Midterm.exe
+C:\Users\jacob\OneDrive\Desktop\github\jag8932\FinalQuestion_Midterm\obj\Debug\FinalQuestion_Midterm.pdb
