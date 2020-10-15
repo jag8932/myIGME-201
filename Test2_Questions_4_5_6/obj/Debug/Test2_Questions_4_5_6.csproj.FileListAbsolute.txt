@@ -1,0 +1,7 @@
+C:\Users\jacob\OneDrive\Desktop\github\jag8932\Test2_Questions_4_5_6\bin\Debug\Test2_Questions_4_5_6.exe.config
+C:\Users\jacob\OneDrive\Desktop\github\jag8932\Test2_Questions_4_5_6\bin\Debug\Test2_Questions_4_5_6.exe
+C:\Users\jacob\OneDrive\Desktop\github\jag8932\Test2_Questions_4_5_6\bin\Debug\Test2_Questions_4_5_6.pdb
+C:\Users\jacob\OneDrive\Desktop\github\jag8932\Test2_Questions_4_5_6\obj\Debug\Test2_Questions_4_5_6.csproj.CoreCompileInputs.cache
+C:\Users\jacob\OneDrive\Desktop\github\jag8932\Test2_Questions_4_5_6\obj\Debug\Test2_Questions_4_5_6.exe
+C:\Users\jacob\OneDrive\Desktop\github\jag8932\Test2_Questions_4_5_6\obj\Debug\Test2_Questions_4_5_6.pdb
+C:\Users\jacob\OneDrive\Desktop\github\jag8932\Test2_Questions_4_5_6\obj\Debug\Test2_Questions_4_5_6.csprojAssemblyReference.cache

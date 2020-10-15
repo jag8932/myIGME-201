@@ -1,0 +1,5 @@
+// {type:class}
+// {generate:true}
+// {direction:topDown}
+
+[+MainMenu|+UserName:string; +task:string|SetTimeClass: Void]

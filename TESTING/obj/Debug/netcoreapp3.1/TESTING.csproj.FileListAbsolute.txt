@@ -1,0 +1,13 @@
+C:\Users\jacob\OneDrive\Desktop\github\jag8932\TESTING\bin\Debug\netcoreapp3.1\TESTING.exe
+C:\Users\jacob\OneDrive\Desktop\github\jag8932\TESTING\bin\Debug\netcoreapp3.1\TESTING.deps.json
+C:\Users\jacob\OneDrive\Desktop\github\jag8932\TESTING\bin\Debug\netcoreapp3.1\TESTING.runtimeconfig.json
+C:\Users\jacob\OneDrive\Desktop\github\jag8932\TESTING\bin\Debug\netcoreapp3.1\TESTING.runtimeconfig.dev.json
+C:\Users\jacob\OneDrive\Desktop\github\jag8932\TESTING\bin\Debug\netcoreapp3.1\TESTING.dll
+C:\Users\jacob\OneDrive\Desktop\github\jag8932\TESTING\bin\Debug\netcoreapp3.1\TESTING.pdb
+C:\Users\jacob\OneDrive\Desktop\github\jag8932\TESTING\obj\Debug\netcoreapp3.1\TESTING.csprojAssemblyReference.cache
+C:\Users\jacob\OneDrive\Desktop\github\jag8932\TESTING\obj\Debug\netcoreapp3.1\TESTING.AssemblyInfoInputs.cache
+C:\Users\jacob\OneDrive\Desktop\github\jag8932\TESTING\obj\Debug\netcoreapp3.1\TESTING.AssemblyInfo.cs
+C:\Users\jacob\OneDrive\Desktop\github\jag8932\TESTING\obj\Debug\netcoreapp3.1\TESTING.csproj.CoreCompileInputs.cache
+C:\Users\jacob\OneDrive\Desktop\github\jag8932\TESTING\obj\Debug\netcoreapp3.1\TESTING.dll
+C:\Users\jacob\OneDrive\Desktop\github\jag8932\TESTING\obj\Debug\netcoreapp3.1\TESTING.pdb
+C:\Users\jacob\OneDrive\Desktop\github\jag8932\TESTING\obj\Debug\netcoreapp3.1\TESTING.genruntimeconfig.cache
