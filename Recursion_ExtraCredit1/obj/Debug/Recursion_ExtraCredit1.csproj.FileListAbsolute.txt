@@ -1,0 +1,7 @@
+C:\github\jag8932\Recursion_ExtraCredit1\bin\Debug\Recursion_ExtraCredit1.exe.config
+C:\github\jag8932\Recursion_ExtraCredit1\bin\Debug\Recursion_ExtraCredit1.exe
+C:\github\jag8932\Recursion_ExtraCredit1\bin\Debug\Recursion_ExtraCredit1.pdb
+C:\github\jag8932\Recursion_ExtraCredit1\obj\Debug\Recursion_ExtraCredit1.csprojAssemblyReference.cache
+C:\github\jag8932\Recursion_ExtraCredit1\obj\Debug\Recursion_ExtraCredit1.csproj.CoreCompileInputs.cache
+C:\github\jag8932\Recursion_ExtraCredit1\obj\Debug\Recursion_ExtraCredit1.exe
+C:\github\jag8932\Recursion_ExtraCredit1\obj\Debug\Recursion_ExtraCredit1.pdb

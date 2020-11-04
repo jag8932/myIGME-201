@@ -1,0 +1,10 @@
+C:\github\jag8932\DOMelements\bin\Debug\DOMelements.exe.config
+C:\github\jag8932\DOMelements\bin\Debug\DOMelements.exe
+C:\github\jag8932\DOMelements\bin\Debug\DOMelements.pdb
+C:\github\jag8932\DOMelements\obj\Debug\DOMelements.csprojAssemblyReference.cache
+C:\github\jag8932\DOMelements\obj\Debug\DOMelements.Form1.resources
+C:\github\jag8932\DOMelements\obj\Debug\DOMelements.Properties.Resources.resources
+C:\github\jag8932\DOMelements\obj\Debug\DOMelements.csproj.GenerateResource.cache
+C:\github\jag8932\DOMelements\obj\Debug\DOMelements.csproj.CoreCompileInputs.cache
+C:\github\jag8932\DOMelements\obj\Debug\DOMelements.exe
+C:\github\jag8932\DOMelements\obj\Debug\DOMelements.pdb

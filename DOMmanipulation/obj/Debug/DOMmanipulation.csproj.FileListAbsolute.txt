@@ -1,0 +1,17 @@
+C:\Users\jacob\OneDrive\Desktop\github\jag8932\DOMmanipulation\bin\Debug\DOMmanipulation.exe.config
+C:\Users\jacob\OneDrive\Desktop\github\jag8932\DOMmanipulation\bin\Debug\DOMmanipulation.exe
+C:\Users\jacob\OneDrive\Desktop\github\jag8932\DOMmanipulation\bin\Debug\DOMmanipulation.pdb
+C:\Users\jacob\OneDrive\Desktop\github\jag8932\DOMmanipulation\obj\Debug\DOMmanipulation.csprojAssemblyReference.cache
+C:\Users\jacob\OneDrive\Desktop\github\jag8932\DOMmanipulation\obj\Debug\DOMmanipulation.Form1.resources
+C:\Users\jacob\OneDrive\Desktop\github\jag8932\DOMmanipulation\obj\Debug\DOMmanipulation.Properties.Resources.resources
+C:\Users\jacob\OneDrive\Desktop\github\jag8932\DOMmanipulation\obj\Debug\DOMmanipulation.csproj.GenerateResource.cache
+C:\Users\jacob\OneDrive\Desktop\github\jag8932\DOMmanipulation\obj\Debug\DOMmanipulation.csproj.CoreCompileInputs.cache
+C:\Users\jacob\OneDrive\Desktop\github\jag8932\DOMmanipulation\obj\Debug\DOMmanipulation.exe
+C:\Users\jacob\OneDrive\Desktop\github\jag8932\DOMmanipulation\obj\Debug\DOMmanipulation.pdb
+C:\github\jag8932\DOMmanipulation\obj\Debug\DOMmanipulation.csprojAssemblyReference.cache
+C:\github\jag8932\DOMmanipulation\obj\Debug\DOMmanipulation.Form1.resources
+C:\github\jag8932\DOMmanipulation\obj\Debug\DOMmanipulation.Properties.Resources.resources
+C:\github\jag8932\DOMmanipulation\obj\Debug\DOMmanipulation.csproj.GenerateResource.cache
+C:\github\jag8932\DOMmanipulation\obj\Debug\DOMmanipulation.csproj.CoreCompileInputs.cache
+C:\github\jag8932\DOMmanipulation\obj\Debug\DOMmanipulation.exe
+C:\github\jag8932\DOMmanipulation\obj\Debug\DOMmanipulation.pdb

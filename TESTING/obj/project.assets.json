@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\jacob\\OneDrive\\Desktop\\github\\jag8932\\TESTING\\TESTING.csproj",
+      "projectUniqueName": "C:\\github\\jag8932\\TESTING\\TESTING.csproj",
       "projectName": "TESTING",
-      "projectPath": "C:\\Users\\jacob\\OneDrive\\Desktop\\github\\jag8932\\TESTING\\TESTING.csproj",
+      "projectPath": "C:\\github\\jag8932\\TESTING\\TESTING.csproj",
       "packagesPath": "C:\\Users\\jacob\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\jacob\\OneDrive\\Desktop\\github\\jag8932\\TESTING\\obj\\",
+      "outputPath": "C:\\github\\jag8932\\TESTING\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\jacob\\AppData\\Roaming\\NuGet\\NuGet.Config",

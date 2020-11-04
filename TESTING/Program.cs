@@ -1,30 +1,49 @@
 ﻿using System;
+using System.IO;
 
-namespace TESTING
+namespace CS_draw_grid_prob
 {
     class Program
     {
-        static int charX = 0;
-        static int charY = 0;
-        static string[,] world = new string[40,40];
         static void Main(string[] args)
         {
-            for(int x = 0; x < 40; x++)
+            char[,] grid = new char[4, 4];
+            for (int r = 0; r < 4; ++r)
             {
-                for(int y = 0; y < 40; y++)
+                for (int c = 0; c < 4; ++c)
                 {
-                    if (x != charX && y != charY) { 
-                    world[x, y] = "O";
-                    }
+                    //grid[r, c] = '0';
+                    grid[r, c] = ' '; // ***
                 }
             }
-            Console.WriteLine(world[charX, charY]);
-            Console.WriteLine("Hello World!");
-            for (var i = 0; i < 10; i++)
+
+            ShowGrid(grid);
+            Console.ReadLine();
+
+            grid[3, 3] = '1';
+            Console.Clear();
+            ShowGrid(grid);
+            Console.ReadLine();
+
+            grid[3, 3] = ' ';
+            grid[2, 2] = '2';
+            grid[0, 2] = 'E';
+            grid[1, 3] = 'A';
+            Console.Clear();
+            ShowGrid(grid);
+            Console.ReadLine();
+        }
+
+        static void ShowGrid(char[,] g)
+        {
+            for (int r = 0; r < 4; ++r)
             {
-                Console.Write("O");
+                for (int c = 0; c < 4; ++c)
+                {
+                    Console.Write("[{0}]", g[r, c]);
+                }
+                Console.WriteLine();
             }
         }
-      string uhhh =  Console.ReadLine();
     }
 }
