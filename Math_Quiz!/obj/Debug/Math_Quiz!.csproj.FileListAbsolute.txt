@@ -1,0 +1,10 @@
+C:\github\jag8932\Math_Quiz!\obj\Debug\Math_Quiz!.csprojAssemblyReference.cache
+C:\github\jag8932\Math_Quiz!\obj\Debug\Math_Quiz_.Form1.resources
+C:\github\jag8932\Math_Quiz!\obj\Debug\Math_Quiz_.Properties.Resources.resources
+C:\github\jag8932\Math_Quiz!\obj\Debug\Math_Quiz!.csproj.GenerateResource.cache
+C:\github\jag8932\Math_Quiz!\obj\Debug\Math_Quiz!.csproj.CoreCompileInputs.cache
+C:\github\jag8932\Math_Quiz!\bin\Debug\Math_Quiz!.exe.config
+C:\github\jag8932\Math_Quiz!\bin\Debug\Math_Quiz!.exe
+C:\github\jag8932\Math_Quiz!\bin\Debug\Math_Quiz!.pdb
+C:\github\jag8932\Math_Quiz!\obj\Debug\Math_Quiz!.exe
+C:\github\jag8932\Math_Quiz!\obj\Debug\Math_Quiz!.pdb

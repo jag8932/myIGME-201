@@ -1,0 +1,14 @@
+C:\github\jag8932\Extra Credit Madder Libs\bin\Debug\Extra Credit Madder Libs.exe.config
+C:\github\jag8932\Extra Credit Madder Libs\bin\Debug\Extra Credit Madder Libs.exe
+C:\github\jag8932\Extra Credit Madder Libs\bin\Debug\Extra Credit Madder Libs.pdb
+C:\github\jag8932\Extra Credit Madder Libs\obj\Debug\Extra Credit Madder Libs.csprojAssemblyReference.cache
+C:\github\jag8932\Extra Credit Madder Libs\obj\Debug\Extra Credit Madder Libs.csproj.CoreCompileInputs.cache
+C:\github\jag8932\Extra Credit Madder Libs\obj\Debug\Extra Credit Madder Libs.exe
+C:\github\jag8932\Extra Credit Madder Libs\obj\Debug\Extra Credit Madder Libs.pdb
+C:\github\jag8932\Extra_Credit_Madder_Libs\bin\Debug\Extra Credit Madder Libs.exe.config
+C:\github\jag8932\Extra_Credit_Madder_Libs\bin\Debug\Extra Credit Madder Libs.exe
+C:\github\jag8932\Extra_Credit_Madder_Libs\bin\Debug\Extra Credit Madder Libs.pdb
+C:\github\jag8932\Extra_Credit_Madder_Libs\obj\Debug\Extra Credit Madder Libs.csprojAssemblyReference.cache
+C:\github\jag8932\Extra_Credit_Madder_Libs\obj\Debug\Extra Credit Madder Libs.csproj.CoreCompileInputs.cache
+C:\github\jag8932\Extra_Credit_Madder_Libs\obj\Debug\Extra Credit Madder Libs.exe
+C:\github\jag8932\Extra_Credit_Madder_Libs\obj\Debug\Extra Credit Madder Libs.pdb
