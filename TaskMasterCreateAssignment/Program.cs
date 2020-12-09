@@ -16,7 +16,7 @@ namespace TaskMasterCreateAssignment
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new CreateAssignment());
+            Application.Run(new Form3());
         }
     }
 }

@@ -43,7 +43,6 @@
             this.cancelButton = new System.Windows.Forms.Button();
             this.errorProvider = new System.Windows.Forms.ErrorProvider(this.components);
             this.dateTimePicker1 = new System.Windows.Forms.DateTimePicker();
-            this.textBox1 = new System.Windows.Forms.TextBox();
             this.enforcementGroupBox.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)(this.errorProvider)).BeginInit();
             this.SuspendLayout();
@@ -181,13 +180,6 @@
             this.dateTimePicker1.Size = new System.Drawing.Size(81, 20);
             this.dateTimePicker1.TabIndex = 15;
             // 
-            // textBox1
-            // 
-            this.textBox1.Location = new System.Drawing.Point(38, 267);
-            this.textBox1.Name = "textBox1";
-            this.textBox1.Size = new System.Drawing.Size(254, 20);
-            this.textBox1.TabIndex = 16;
-            // 
             // CreateAssignment
             // 
             this.AcceptButton = this.createButton;
@@ -195,7 +187,6 @@
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.CancelButton = this.cancelButton;
             this.ClientSize = new System.Drawing.Size(364, 370);
-            this.Controls.Add(this.textBox1);
             this.Controls.Add(this.dateTimePicker1);
             this.Controls.Add(this.cancelButton);
             this.Controls.Add(this.createButton);
@@ -233,7 +224,6 @@
         private System.Windows.Forms.Button cancelButton;
         private System.Windows.Forms.ErrorProvider errorProvider;
         private System.Windows.Forms.DateTimePicker dateTimePicker1;
-        private System.Windows.Forms.TextBox textBox1;
     }
 }
 

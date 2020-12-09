@@ -52,7 +52,7 @@ namespace TaskMasterCreateAssignment
 
             this.cancelButton.Click += new EventHandler(CancelButton__Click);
 
-            this.textBox1.Text = this.dateTimePicker.Value.Day.ToString();
+            
             //this.dateTimePicker.Value.Day
         }
 
@@ -133,6 +133,7 @@ namespace TaskMasterCreateAssignment
 
         private void CancelButton__Click(object sender, EventArgs e)
         {
+            
             this.Close();
         }
     }
